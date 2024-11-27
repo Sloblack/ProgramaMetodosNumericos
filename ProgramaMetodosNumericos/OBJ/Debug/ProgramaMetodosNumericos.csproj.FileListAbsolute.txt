@@ -1,0 +1,137 @@
+C:\Users\marco\source\repos\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\ProgramaMetodosNumericos.exe.config
+C:\Users\marco\source\repos\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\ProgramaMetodosNumericos.exe
+C:\Users\marco\source\repos\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\ProgramaMetodosNumericos.pdb
+C:\Users\marco\source\repos\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\source\repos\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.Properties.Resources.resources
+C:\Users\marco\source\repos\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.csproj.GenerateResource.cache
+C:\Users\marco\source\repos\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.exe
+C:\Users\marco\source\repos\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.pdb
+C:\Users\marco\source\repos\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.FrmTema1.resources
+C:\Users\marco\source\repos\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.FrmTemas.resources
+C:\Users\marco\source\repos\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.FrmBiseccion.resources
+G:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\ProgramaMetodosNumericos.exe.config
+G:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\ProgramaMetodosNumericos.exe
+G:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\ProgramaMetodosNumericos.pdb
+G:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.csproj.AssemblyReference.cache
+G:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.csproj.SuggestedBindingRedirects.cache
+G:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.FrmBiseccion.resources
+G:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.FrmTema1.resources
+G:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.FrmTemas.resources
+G:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.Properties.Resources.resources
+G:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.csproj.GenerateResource.cache
+G:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.csproj.CoreCompileInputs.cache
+G:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.exe
+G:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.pdb
+E:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\ProgramaMetodosNumericos.exe.config
+E:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\ProgramaMetodosNumericos.exe
+E:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\ProgramaMetodosNumericos.pdb
+E:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.csproj.AssemblyReference.cache
+E:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.csproj.SuggestedBindingRedirects.cache
+E:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.FrmBiseccion.resources
+E:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.FrmTema1.resources
+E:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.FrmTemas.resources
+E:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.Properties.Resources.resources
+E:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.FrmTema3.resources
+E:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.csproj.GenerateResource.cache
+E:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.csproj.CoreCompileInputs.cache
+E:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.exe
+E:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.pdb
+G:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.FrmTema3.resources
+G:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.FrmTema4.resources
+E:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.FrmTema4.resources
+E:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ComponentesPersonalizadosPractica.ColorPicker.resources
+E:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ComponentesPersonalizadosPractica.InputConLabel.resources
+E:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\PdfSharp.Charting.dll
+E:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\PdfSharp.dll
+E:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\PdfSharp.xml
+E:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\PdfSharp.Charting.xml
+E:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\de\PdfSharp.resources.dll
+E:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\de\PdfSharp.Charting.resources.dll
+E:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.csproj.CopyComplete
+G:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\PdfSharp.Charting.dll
+G:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\PdfSharp.dll
+G:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\PdfSharp.xml
+G:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\PdfSharp.Charting.xml
+G:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\de\PdfSharp.resources.dll
+G:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\de\PdfSharp.Charting.resources.dll
+G:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ComponentesPersonalizadosPractica.ColorPicker.resources
+G:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.FrmTema5.resources
+G:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ComponentesPersonalizadosPractica.InputConLabel.resources
+G:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.csproj.CopyComplete
+E:\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.FrmTema5.resources
+E:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\ProgramaMetodosNumericos.exe.config
+E:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\ProgramaMetodosNumericos.exe
+E:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\ProgramaMetodosNumericos.pdb
+E:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\PdfSharp.Charting.dll
+E:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\PdfSharp.dll
+E:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\PdfSharp.xml
+E:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\PdfSharp.Charting.xml
+E:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\de\PdfSharp.resources.dll
+E:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\de\PdfSharp.Charting.resources.dll
+E:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.csproj.AssemblyReference.cache
+E:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ComponentesPersonalizadosPractica.ColorPicker.resources
+E:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.FrmTema1.resources
+E:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.FrmBiseccion.resources
+E:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.FrmTema4.resources
+E:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.FrmTema5.resources
+E:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.FrmTemas.resources
+E:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ComponentesPersonalizadosPractica.InputConLabel.resources
+E:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.Properties.Resources.resources
+E:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.FrmTema3.resources
+E:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.csproj.GenerateResource.cache
+E:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.csproj.CoreCompileInputs.cache
+E:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.csproj.CopyComplete
+E:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.exe
+E:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.pdb
+G:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\ProgramaMetodosNumericos.exe.config
+G:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\ProgramaMetodosNumericos.exe
+G:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\ProgramaMetodosNumericos.pdb
+G:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\PdfSharp.Charting.dll
+G:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\PdfSharp.dll
+G:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\PdfSharp.xml
+G:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\PdfSharp.Charting.xml
+G:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\de\PdfSharp.resources.dll
+G:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\de\PdfSharp.Charting.resources.dll
+G:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.csproj.AssemblyReference.cache
+G:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.csproj.SuggestedBindingRedirects.cache
+G:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ComponentesPersonalizadosPractica.ColorPicker.resources
+G:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.FrmTema1.resources
+G:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.FrmBiseccion.resources
+G:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.FrmTema4.resources
+G:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.FrmTema5.resources
+G:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.FrmTemas.resources
+G:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ComponentesPersonalizadosPractica.InputConLabel.resources
+G:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.Properties.Resources.resources
+G:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.FrmTema3.resources
+G:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.csproj.GenerateResource.cache
+G:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.csproj.CoreCompileInputs.cache
+G:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.csproj.CopyComplete
+G:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.exe
+G:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.pdb
+D:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\ProgramaMetodosNumericos.exe.config
+D:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\ProgramaMetodosNumericos.exe
+D:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\ProgramaMetodosNumericos.pdb
+D:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\PdfSharp.Charting.dll
+D:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\PdfSharp.dll
+D:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\PdfSharp.xml
+D:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\PdfSharp.Charting.xml
+D:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\de\PdfSharp.resources.dll
+D:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.csproj.AssemblyReference.cache
+D:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ComponentesPersonalizadosPractica.ColorPicker.resources
+D:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.FrmTema1.resources
+D:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.FrmBiseccion.resources
+D:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.FrmTema4.resources
+D:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.FrmTema5.resources
+D:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.FrmTemas.resources
+D:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ComponentesPersonalizadosPractica.InputConLabel.resources
+D:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.Properties.Resources.resources
+D:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.FrmTema3.resources
+D:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.csproj.GenerateResource.cache
+D:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.csproj.CoreCompileInputs.cache
+D:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.csproj.CopyComplete
+D:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.exe
+D:\Proyectos C#\ProgramaMetodosNumericos\ProgramaMetodosNumericos\obj\Debug\ProgramaMetodosNumericos.pdb
